@@ -8,4 +8,6 @@ This project is made by four students :
 - [Matthieu V](https://github.com/FalTeaK)
 - [Benjamin P](https://github.com/benjaminpmd)
 
-## More information will come as the project progresses
+## What is WALL-O?
+
+WALL-O is a small robot able to track lines and avoid obstacles. The robot can be controlled via a (web application)[https://wall-o.benjaminpmd.fr/]
