@@ -4,7 +4,7 @@ WALL-O is an autonomous vehicle that is able to follow lines on the ground and a
 
 This project is made by four students :
 
-- [Maxime A](https://github.com/MicheloXy)
+- [Maxime A](https://github.com/maxand0)
 - [Alex V](https://github.com/Skodaa)
 - [Matthieu V](https://github.com/FalTeaK)
 - [Benjamin P](https://github.com/benjaminpmd)
